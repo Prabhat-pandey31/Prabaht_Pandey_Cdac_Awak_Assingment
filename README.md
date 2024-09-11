@@ -1,53 +1,38 @@
 # Prabaht_Pandey_Cdac_Awak_Assingment
 
-Submission of Awak Assignment
-This submission consists of three files:
 
-index.html
-styles.css
-script.js
+This is the SuBmission of Awak Assingment
 
-How to Run These Files on Your Computer
-Using Git:
+--- Which Consist of three files
 
-Install Git: If you don't have Git installed, please install it on your local PC. If Git is already installed, proceed to the next step.
+Index.html
+Styles.css
+Script.js
+------------------------------------------ If You Want To Run these File Of Your Computer Then ---------------------------------------------------------------
 
-Clone the Repository:
+First Install git on your local pc . Or you already have Git installed in your pc then,
+Make a New Folder in your Pc and Left Click It and click git bash, then it will open Git Bash and then,
+Copy the link of that repository from Green Button Written Code or,
+Directly paste that command on your git command interface => git clone https://github.com/Prabhat-pandey31/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100.git .
+it will fetch all the files from the repository.
+then you can run that project by clicking index.html files
+Or if want to check code then you can open that folder in IDE,like Visual studio Code etc.
+------------------------------------------ Without Git Installation -------------------------------------------------------------------------
 
-Create a new folder on your PC.
+first Make A folder
 
-Right-click the folder and select "Git Bash Here" to open Git Bash.
+Open this folder in your IDE
 
-Copy the repository link from the green "Code" button or use the following command directly in Git Bash:
+And MAke three files Name => "index.html" , "styles.css" , "script.js" .
 
-bash
-Copy code
-git clone https://github.com/Prabhat-pandey31/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100.git
+and Copy all the code from the respective files and run it.
 
-This command will fetch all the files from the repository.
-
-Run the Project:
-
-Open the cloned folder and click on the index.html file to run the project.
-Alternatively, you can open the folder in an IDE, such as Visual Studio Code, to view or modify the code.
-Without Git Installation:
-
-Create a Folder:
-
-Create a new folder on your PC.
-Set Up Files:
-
-Open the folder in your IDE.
-Create three files named index.html, styles.css, and script.js.
-Copy the code from the respective files into these newly created files.
-Run the Project:
-
-Open the index.html file in your browser to view the project.
-How Your Login Page Will Look
-You can view a demo of the login page here.
 
 Demo Login Link - https://prabhat-pandey31.github.io/Prabaht_Pandey_Cdac_Awak_Assingment/
 Demo Credentials:   
 Email: prabhatpandey3105@gmail.com
 Password: Prabhat@123
+
+-----------------------------------------------------------Login page------------------------------------------------------------------------
+![Screenshot 2024-09-11 165522](https://github.com/user-attachments/assets/9b49c8a3-eafa-4f8a-80b7-5a9df765a40c)
 
