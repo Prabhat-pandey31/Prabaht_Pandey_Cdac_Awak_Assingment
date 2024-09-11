@@ -24,6 +24,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     if (!passwordInput.value || passwordInput.value.length < 6) {
         const error = document.createElement('p');
         error.textContent = 'Password should be at least 6 characters long.';
+        error.style.color='red';
         error.classList.add('error-message');
         passwordInput.parentElement.appendChild(error);
         isValid = false;
