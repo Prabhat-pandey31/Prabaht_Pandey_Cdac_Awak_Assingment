@@ -6,6 +6,7 @@ This submission consists of three files:
 index.html
 styles.css
 script.js
+
 How to Run These Files on Your Computer
 Using Git:
 
@@ -14,12 +15,17 @@ Install Git: If you don't have Git installed, please install it on your local PC
 Clone the Repository:
 
 Create a new folder on your PC.
+
 Right-click the folder and select "Git Bash Here" to open Git Bash.
+
 Copy the repository link from the green "Code" button or use the following command directly in Git Bash:
+
 bash
 Copy code
 git clone https://github.com/Prabhat-pandey31/Awak_Assignment_Prabhat_Pandey_Cdac_240350120100.git
+
 This command will fetch all the files from the repository.
+
 Run the Project:
 
 Open the cloned folder and click on the index.html file to run the project.
@@ -40,8 +46,8 @@ Open the index.html file in your browser to view the project.
 How Your Login Page Will Look
 You can view a demo of the login page here.
 
-Demo Credentials:
-
+Demo Login Link - https://prabhat-pandey31.github.io/Prabaht_Pandey_Cdac_Awak_Assingment/
+Demo Credentials:   
 Email: prabhatpandey3105@gmail.com
 Password: Prabhat@123
 
